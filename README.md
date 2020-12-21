@@ -21,6 +21,6 @@ What can I do to improve the aspects I’m less proud of?
 That’s the dark side of growth, I guess…
 
 
-**My name is Raghad Mustafa, l studied computer engineering at Yarmouk University in September 2019, I worked after graduated as automation tester** 
+**My name is Raghad Mustafa, l studied computer engineering at Yarmouk University and graduated in September 2019, I worked after graduated as automation tester** 
 *This is my GitHub* : (https://github.com/Raghadmustafa96/reading-notes) 
 

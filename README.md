@@ -10,8 +10,6 @@ By contrast, in a fixed mindset, intelligence and talent are seen as fixed trait
 success comes from these inherent qualities alone, without the need for further development or effort.
 
 
-
-
 ## I’ve learned to to keep myself in a growth mindset to ask myself some questions:
 
 ### What was the best part of the day?
@@ -21,3 +19,8 @@ These questions help me focus on all aspects of my day, the good and the bad, an
 ### Which aspects of my work am I most proud of?
 What can I do to improve the aspects I’m less proud of?
 That’s the dark side of growth, I guess…
+
+
+**My name is Raghad Mustafa, l studied computer engineering at Yarmouk University in September 2019, I worked after graduated as automation tester** 
+*This is my GitHub* : (https://github.com/Raghadmustafa96/reading-notes) 
+

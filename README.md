@@ -30,6 +30,7 @@ That’s the dark side of growth, I guess…
 | --------------------------| ---------------------- |
 | [ReadME2](README2.md)     |   HTML                 |
 | [README-6b](README-6b.md) | how Computer works     |
+| [README-6a](README6A.md)  | JavaScript.            |
 
 
 

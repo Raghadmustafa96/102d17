@@ -26,9 +26,10 @@ That’s the dark side of growth, I guess…
 
 
 ### Reading Table
-| Reading               | Title       |
-| --------------------- | ----------- |
-| [ReadME2](README2.md) |   HTML      |
+| Reading                   | Title                  |
+| --------------------------| ---------------------- |
+| [ReadME2](README2.md)     |   HTML                 |
+| [README-6b](README-6b.md) | how Computer works     |
 
 
 

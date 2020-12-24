@@ -28,9 +28,10 @@ That’s the dark side of growth, I guess…
 ### Reading Table
 | Reading                   | Title                  |
 | --------------------------| ---------------------- |
-| [ReadME4](README4.md)     |   HTML                 |
-| [README-6b](README-6b.md) | how Computer works     |
-| [README-6a](README6A.md)  | JavaScript.            |
+|[ReadME4](README4.md)|HTML|
+|[README-6b](README-6b.md) |how Computer works|
+|[README-6a](README6A.md)  |JavaScript|
+|[README-7](https://raghadmustafa96.github.io/reading-notes/README7)|introduction to JavaScript |
 
 
 

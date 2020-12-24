@@ -32,6 +32,8 @@ That’s the dark side of growth, I guess…
 |[README-6b](README-6b.md) |how Computer works|
 |[README-6a](README6A.md)  |JavaScript|
 |[README-7](https://raghadmustafa96.github.io/reading-notes/README7)|introduction to JavaScript |
+|[README-8](https://raghadmustafa96.github.io/reading-notes/README8)| Comparison and Looping |
+
 
 
 

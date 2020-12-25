@@ -19,11 +19,11 @@ Very happy to be joining you, and so glad to be a part of this journey.
 
 
 
-| Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
-| col 1 is |  left-aligned | $1600 |
-| col 2 is |    centered   |   $12 |
-| col 3 is | right-aligned |    $1 |
+| Reading   |      Title    |
+|-----------|:-------------:|
+| col 1 is  |  left-aligned |
+| col 2 is  |    centered   |
+| col 3 is  | right-aligned |
 
 
 

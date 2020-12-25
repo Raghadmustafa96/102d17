@@ -9,12 +9,21 @@ Very happy to be joining you, and so glad to be a part of this journey.
 
 ### Reading Table
 | Reading                                                                | Title                      |
-| ---------------------------------------------------------------------- | -------------------------- |
+|------------------------------------------------------------------------|----------------------------|
 | [ReadME4](https://raghadmustafa96.github.io/reading-notes/README4)     | HTML                       |
 | [README-6b](https://raghadmustafa96.github.io/reading-notes/README-6b) | how Computer works         |
 | [README-6a](https://raghadmustafa96.github.io/reading-notes/README6A)  | JavaScript                 |
 | [README-7](https://raghadmustafa96.github.io/reading-notes/README7)    | introduction to JavaScript |
 | [README-8](https://raghadmustafa96.github.io/reading-notes/README8)    | Comparison and Looping     |
+
+
+
+
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
 
 
 

@@ -17,13 +17,14 @@ Very happy to be joining you, and so glad to be a part of this journey.
 | [README-8](https://raghadmustafa96.github.io/reading-notes/README8)    | Comparison and Looping     |
 
 
+| r | g |
+|---|---|
+|   |   |
 
 
-| Reading   |      Title    |
-|-----------|:-------------:|
-| col 1 is  |  left-aligned |
-| col 2 is  |    centered   |
-| col 3 is  | right-aligned |
+
+
+
 
 
 

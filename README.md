@@ -1,38 +1,20 @@
+My name is **Raghad Mustafa** , I am 24 years old, I studied computer engineering at Yarmouk University.
+after graduated I worked for 9 months as software automation engineer, as automation tester.
+but I want really to change my career and be a good full stack programmer, 
+So I quit my job and decided to join **ASAC LTUC** family, to be a good software engineer.
 
-
-# growth mindset
-
-A growth mindset believes that one’s fundamental abilities can be developed through perseverance and effort; 
-intelligence and talent are simply good starting points. 
-A growth mindset is synonymous with a love of learning.
-
-By contrast, in a fixed mindset, intelligence and talent are seen as fixed traits, suggesting that
-success comes from these inherent qualities alone, without the need for further development or effort.
-
-
-## I’ve learned to to keep myself in a growth mindset to ask myself some questions:
-
-### What was the best part of the day?
-What went wrong, and how can I make sure it doesn’t happen again?
-These questions help me focus on all aspects of my day, the good and the bad, and they help me internalize strategies for creating more good days going forward.
-
-### Which aspects of my work am I most proud of?
-What can I do to improve the aspects I’m less proud of?
-That’s the dark side of growth, I guess…
-
-
-**My name is Raghad Mustafa, l studied computer engineering at Yarmouk University and graduated in September 2019, I worked after graduated as automation tester** 
+Very happy to be joining you, and so glad to be a part of this journey.
 [This is my GitHub]( https://github.com/Raghadmustafa96/reading-notes ) 
 
 
 ### Reading Table
-| Reading                   | Title                  |
-| --------------------------| ---------------------- |
-|[ReadME4](README4.md)|HTML|
-|[README-6b](README-6b.md) |how Computer works|
-|[README-6a](README6A.md)  |JavaScript|
-|[README-7](https://raghadmustafa96.github.io/reading-notes/README7)|introduction to JavaScript |
-|[README-8](https://raghadmustafa96.github.io/reading-notes/README8)| Comparison and Looping |
+| Reading                                                                | Title                      |
+| -----------------------------------------------------------------      | -------------------------- |
+| [ReadME4](https://raghadmustafa96.github.io/reading-notes/README4)     | HTML                       |
+| [README-6b](https://raghadmustafa96.github.io/reading-notes/README-6b) | how Computer works         |
+| [README-6a](https://raghadmustafa96.github.io/reading-notes/README6A)  | JavaScript                 |
+| [README-7](https://raghadmustafa96.github.io/reading-notes/README7)    | introduction to JavaScript |
+| [README-8](https://raghadmustafa96.github.io/reading-notes/README8)    | Comparison and Looping     |
 
 
 

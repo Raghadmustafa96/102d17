@@ -8,6 +8,7 @@ Very happy to be joining you, and so glad to be a part of this journey.
 
 
 ### Reading Table
+
 | Reading                                                               | Title                       |
 | ----------------------------------------------------------------------| --------------------------- |
 | [ReadME4](https://raghadmustafa96.github.io/reading-notes/README4)    | HTML                        |
@@ -16,6 +17,11 @@ Very happy to be joining you, and so glad to be a part of this journey.
 | [README-7](https://raghadmustafa96.github.io/reading-notes/README7)   | introduction to JavaScript  |
 | [README-8](https://raghadmustafa96.github.io/reading-notes/README8)   | Comparison and Looping      |
 
+
+
+|Reading  | Title |
+|---------|-------|
+|         |       |
 
 
 

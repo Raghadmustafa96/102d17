@@ -19,9 +19,7 @@ Very happy to be joining you, and so glad to be a part of this journey.
 
 
 
-|Reading  | Title |
-|---------|-------|
-|         |       |
+
 
 
 

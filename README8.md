@@ -4,25 +4,25 @@ You can evaluate a situation by comparing one value in the script to what you ex
 
 
 * IS EQUAL TO 
-` == `
+`==`
 This operator compares two values (numbers, strings, ar Booleans) to see if they are the same.
 
 
 * IS NOT EQUAL 
-`! = `
+`! =`
 This operator compares two values (numbers. strings, or Booleans) to see if they are not the same.
 
 
 * STRICT EQUAL TO 
-` === `
+`===`
 
 This operator compares two values to check that bath the data type and value are the same.
 
 * STRICT NOT EQUAL TO This operator.  
-` ! == `
+`! ==`
 compares two values to check that both the data type and value are not the same. 
 
-and also have ` >, <, >=, <= `
+and also have `>, <, >=, <=`
 
 
 ## LOOPS

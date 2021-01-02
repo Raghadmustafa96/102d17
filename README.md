@@ -11,13 +11,13 @@ Very happy to be joining you, and so glad to be a part of this journey.
 
 | Reading                                                                         | Title                       |
 | --------------------------------------------------------------------------------| --------------------------- |
-| [Growth-Mindset](https://raghadmustafa96.github.io/reading-notes/growth-mindset)| Growth Mindset              |
-| [ReadME4](https://raghadmustafa96.github.io/reading-notes/README4)              | HTML                        |
-| [README-6b](https://raghadmustafa96.github.io/reading-notes/README-6b)          | how Computer works          |
-| [README-6a](https://raghadmustafa96.github.io/reading-notes/README6A)           | JavaScript                  |
-| [README-7](https://raghadmustafa96.github.io/reading-notes/README7)             | introduction to JavaScript  |
-| [README-8](https://raghadmustafa96.github.io/reading-notes/README8)             | Comparison and Looping      |
-| [README-5](https://raghadmustafa96.github.io/reading-notes/Readme5)             | Css, color                  |
+| [Growth-Mindset](https://raghadmustafa96.github.io/reading-notes102/growth-mindset)| Growth Mindset              |
+| [ReadME4](https://raghadmustafa96.github.io/reading-notes102/README4)              | HTML                        |
+| [README-6b](https://raghadmustafa96.github.io/reading-notes102/README-6b)          | how Computer works          |
+| [README-6a](https://raghadmustafa96.github.io/reading-notes102/README6A)           | JavaScript                  |
+| [README-7](https://raghadmustafa96.github.io/reading-notes102/README7)             | introduction to JavaScript  |
+| [README-8](https://raghadmustafa96.github.io/reading-notes102/README8)             | Comparison and Looping      |
+| [README-5](https://raghadmustafa96.github.io/reading-notes102/Readme5)             | Css, color                  |
 
 
 
